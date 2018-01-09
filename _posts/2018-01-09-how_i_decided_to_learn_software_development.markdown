@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "' How I decided to learn software development'"
-date:       2018-01-09 18:11:01 +0000
+date:       2018-01-09 13:11:01 -0500
 permalink:  how_i_decided_to_learn_software_development
 ---
 
