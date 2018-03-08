@@ -17,7 +17,7 @@ I decided I would build an app that interacted with the user to show them latest
 The most difficult part for me was setting up the environment:
 Frustration first came when *bundle install*  showed an error "*The validation error was '"FIXME" or "TODO" is not a description*" ....  WHAT?!?
 
-After some googling that was fixed in the .gemspec - pretty simple actually, but frightening at first.
+After some googling, the error was fixed in the .gemspec - pretty simple actually, but frightening at first.
 A few more errors that were fixed with the help of Stack overflow and still my list of records was NOT printing out as I expected - seems like scraping did not work!
 Here Avi's video helped (I rewinded it a hundred times)  - I had forgotten that I not only have to 'require' Nokogiri in the environment, but also to add_dependency in the .gemspec  :-))))  and voilà - the list printed out.
 I have no words to describe how good it feels to put the code to work!
