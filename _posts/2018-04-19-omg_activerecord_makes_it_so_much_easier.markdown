@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "OMG, ActiveRecord makes it so much easier"
-date:       2018-04-19 22:04:26 +0000
+date:       2018-04-19 18:04:27 -0400
 permalink:  omg_activerecord_makes_it_so_much_easier
 ---
 
