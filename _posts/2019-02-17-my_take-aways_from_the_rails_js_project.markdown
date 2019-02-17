@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My take-aways from the Rails/JS project"
-date:       2019-02-17 17:24:29 +0000
+title:      "My take-aways from the Rails and JS project"
+date:       2019-02-17 12:24:30 -0500
 permalink:  my_take-aways_from_the_rails_js_project
 ---
 
